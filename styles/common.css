@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+.width-screen {
+    @apply w-screen;
+}
+
+.width-max {
+    @apply w-full max-w-sm sm:max-w-xl md:max-w-3xl lg:max-w-5xl xl:max-w-7xl m-auto;
+}
+
+.white-btn {
+    @apply border border-gray-300 rounded-xl py-2 px-4 text-gray-600 text-xs lg:text-sm cursor-pointer;
+}
