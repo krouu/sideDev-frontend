@@ -1,7 +1,7 @@
 import "../../styles/common.css";
-import BestProject from "./contaniers/BestProject";
-import EndProject from "./contaniers/EndProject";
-import NewProject from "./contaniers/NewProject";
+import BestProject from "./contanier/BestProject";
+import EndProject from "./contanier/EndProject";
+import NewProject from "./contanier/NewProject";
 
 const Main = () => {
     return (  
