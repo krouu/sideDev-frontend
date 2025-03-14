@@ -1,6 +1,8 @@
+import Login from "@/widget/login/Login";
+
 const page = () => {
     return (  
-        <div></div>
+        <Login />
     );
 }
  
