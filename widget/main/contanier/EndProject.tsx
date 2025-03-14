@@ -1,7 +1,4 @@
 import ContainerTitle from "@/components/ContainerTitle";
-import ContentText from "@/components/ContentText";
-import EndDate from "@/components/EndDate";
-import ImgCard from "@/components/ImgCard";
 import EndCard from "./EndCard";
 
 const EndProject = () => {

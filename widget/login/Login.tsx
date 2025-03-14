@@ -6,7 +6,7 @@ import { MdEmail } from "react-icons/md";
 const Login = () => {
     return (  
         <section className="width-screen py-52 md:py-80">
-            <article className="width-max flex flex-col gap-2 items-center justify-center">
+            <article className="width-max-login flex flex-col gap-2 items-center justify-center">
                 <Link className="w-full" href={"/"}>
                     <div className="flex justify-center items-center gap-3 border border-gray-300 p-4 rounded-xl">
                         <FaGithub className="text-base sm:text-xl md:text-2xl lg:text-3xl" />

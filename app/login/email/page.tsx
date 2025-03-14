@@ -1,6 +1,8 @@
+import Email from "@/widget/login/email/Email";
+
 const page = () => {
     return (  
-        <span>email 로그인</span>
+        <Email />
     );
 }
  
